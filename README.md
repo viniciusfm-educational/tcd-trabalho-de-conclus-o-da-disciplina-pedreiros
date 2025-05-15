@@ -6,6 +6,7 @@
 - Mateus Moreira Adão — GitHub: @mateuspimto  
 - Ryan Serafim — GitHub: @RyanSerafas
 - Vinicius Gonçalves Lopes — GitHub: @Vinicin Mala
+- Francisco Tomaz Estevão — GitHub: @tefrancisco
 
 ## Descrição do Projeto
 
