@@ -6,7 +6,7 @@
 - Mateus Moreira Adão — GitHub: @mateuspimto  
 - Ryan Serafim — GitHub: @RyanSerafas
 - Vinicius Gonçalves Lopes — GitHub: @Vinicin Mala
-- Francisco Tomaz Estevão — GitHub: @tefrancisco
+
 
 ## Descrição do Projeto
 
@@ -24,30 +24,36 @@ O sistema contará com funcionalidades como cadastro e autenticação de usuári
 - [ ] Implementação da tela de login e cadastro
 - [ ] Cadastro e gerenciamento de produtos pelos vendedores
 - [ ] Listagem e busca de produtos pelos clientes
+- [ ] Implementação do Mapa Interativo dos Vendedores Ambulantes 
+- [ ] Criação do Chat entre vendedor e cliente
 - [ ] Criação do carrinho de compras
 - [ ] Finalização de pedidos com resumo e confirmação
 - [ ] Validação dos campos obrigatórios
 - [ ] Testes e ajustes gerais
 - [ ] Finalização da documentação do projeto
 
+
 ## Imagens das Telas do Aplicativo
 
 A seguir, estão os protótipos das principais telas do aplicativo, criados com o uso da ferramenta Figma. Todas as imagens estão organizadas na pasta `docs/images`.
 
+### Tela Principal
+![Tela Principal](docs/images/tela-principal.jpg)
+
+### Tela de Pagamento
+![Tela de Pagamento](docs/images/tela-pagamento.jpg)
+
+### Tela de Navegação
+![Tela de Navegação](docs/images/tela-navegação.jpg)
+
+### Tela de Estatísticas
+![Tela de Estatísticas](docs/images/tela-stats.jpg)
+
+### Tela de Atividade
+![Tela de Atividade](docs/images/tela-atividade.jpg)
+
+### Tela de Chat
+![Tela de Chat](docs/images/tela-chat.jpg)
+
 ### Tela de Login
-![Tela de Login](docs/images/tela-login.png)
-
-### Tela de Cadastro
-![Tela de Cadastro](docs/images/tela-cadastro.png)
-
-### Tela de Listagem de Produtos
-![Tela de Listagem de Produtos](docs/images/tela-listagem-produtos.png)
-
-### Tela de Detalhes do Produto
-![Tela de Detalhes do Produto](docs/images/tela-detalhes-produto.png)
-
-### Tela do Carrinho de Compras
-![Tela do Carrinho de Compras](docs/images/tela-carrinho.png)
-
-### Tela de Finalização do Pedido
-![Tela de Finalização do Pedido](docs/images/tela-finalizacao-pedido.png)
+![Tela de Login](docs/images/tela-login.jpg)
